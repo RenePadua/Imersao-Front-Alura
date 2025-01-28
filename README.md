@@ -4,7 +4,44 @@
 
 ## Sobre o Projeto / About the Project
 Pequeno projeto de Imersão Front End da Alura produzindo uma página inicial similar ao Spotify / Small Front End Immersion project from Alura producing a home page similar to Spotify.
- 
+
+```
+Imersao-Front-Alura/
+  │ 
+assets
+  ├── icons/
+  │ └── reset.css
+  │ └── styles.css
+  │── js/
+  │   └── scripts.js
+  ├── icons/
+  │    └── favicon.png
+  │    └── logo-spotify.png
+  │    └── search.png
+  │    └── small-left.png
+  │    └── small-right.png
+  │── playlist/
+  │   └── 1.jpeg
+  │   └── 2.png
+  │   └── 3.jpeg
+  │   └── 4.jpeg
+  │   └── 5.jpeg
+  │   └── 6.jpeg
+  │   └── 7.jpeg
+  │   └── 8.jpeg
+  │   └── 9.jpeg
+  │   └── 10.jpeg
+  │   └── 11.jpeg
+  │   └── 12.jpeg
+  │   └── 13.jpeg
+  │   └── 14.jpeg
+  │   └── 15.jpeg
+  ├── index.html
+  └── reset.css
+  └── styles.css
+  └── scripts.js
+  └── README.md
+  
 ```
 
 ## Tecnologias / Technologies
