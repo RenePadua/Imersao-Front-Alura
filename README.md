@@ -3,27 +3,32 @@
 
 Bem-vindo ao repositório do curso de Imersão Front-End da Alura! Este repositório contém os arquivos e códigos desenvolvidos ao longo das cinco aulas do curso, abordando desde conceitos básicos até o uso de frameworks modernos.
 
+
 ## 🎓 Sobre o Curso
 
 O curso de Imersão Front-End tem como objetivo capacitar desenvolvedores para criarem interfaces modernas e responsivas utilizando HTML, CSS, JavaScript e frameworks populares.
+
 
 ## 🔍 Estrutura do Repositório
 
 O repositório está organizado em branches, onde cada branch corresponde a uma aula específica do curso.
 
+
 ## 📗 Aulas
 
-Aula 01: Revisão: HTML, CSS e JS na Prática
+* Aula 01: Revisão: HTML, CSS e JS na Prática
 
-Aula 02: Estilo Avançado e Posicionamento: Transformando Layouts
+* Aula 02: Estilo Avançado e Posicionamento: Transformando Layouts
 
-Aula 03: Layout Flexbox, Pseudo-classes e Responsividade em CSS
+* Aula 03: Layout Flexbox, Pseudo-classes e Responsividade em CSS
 
-Aula 04: CSS Grid, Media Queries e Manipulação do DOM com JavaScript
+* Aula 04: CSS Grid, Media Queries e Manipulação do DOM com JavaScript
 
-Aula 05: Frameworks e Eficiência: Introdução ao React e Angular
+* Aula 05: Frameworks e Eficiência: Introdução ao React e Angular
+
 
 Cada branch contém os arquivos relacionados ao conteúdo apresentado na respectiva aula.
+
 
 ## 🌟 Tecnologias Utilizadas
 
@@ -37,6 +42,7 @@ Cada branch contém os arquivos relacionados ao conteúdo apresentado na respect
 ## Preview do resultado da Aula-05
 
 ![App Screenshot](https://github.com/RenePadua/Imersao-Front-Alura/blob/main/Preview.gif)
+
 
 ## 
 💪Mantenha-se sempre aprendendo e construindo! 🌟
